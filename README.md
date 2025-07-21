@@ -1,2 +1,2 @@
 # Test-1
-First tests with Github
+First tests with GitHub
